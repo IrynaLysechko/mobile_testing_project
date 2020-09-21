@@ -1,4 +1,4 @@
-### **Automated test project a native Gmail application**
+### **A native Gmail application automated test project**
 
 **Tools:** Appium, TestNG, Maven
 
